@@ -1,0 +1,8 @@
+This project was conducted in DSC 520 to look at the correlation, linear regression and insights into the declining salmon population.  It used multiple datasets from Department of Fish and Wildlife to include CSV files of Hatchery Salmon Returns, Regions Hatchery Standards, and Salmonid Stock Inventory.
+Hatcheries provide are used for stock enhancement or also known as restoration aquaculture.   These fish were raised within the hatchery and then released to supplement to population of recreational, commercial, and ecologically important species [1].  One of these important species is the King Salmon.  Commercial fishing farms require a steady, predictable source of juveniles from hatcheries to stay in production and provide a consistent product.  Within the past decade there has been a decline in King Salmon, with less making the run up to Alaska to spawn within their rivers.  To preserve these magnificent creatures, the state has banned catch and release fishing on their rivers.  Wild and hatchery smolt are missing and biologist know that they made it out to sea.  
+Research questions 
+1.	Are King Salmon really in decline?
+2.	What other species, if any, are also in decline of returning to the hatcheries?
+3.	Are hatcheries truly showing restoration aquaculture with the multiple species of Salmon?
+4.	Which run has the largest effect of returned Salmon – Winter, Spring, Summer or Fall? 
+5.	Are there other inputs may influence returning Salmon, more jacks than female?
